@@ -12,9 +12,9 @@ ISUBU Teknoloji Fak. Elektrik-Elektronik Müh. EEM-117 Algoritma ve Programlama 
 ---
 
 **Devamsızlık ve Notlandırma** (03.10.2021)   
-Ders devam mecburiyeti: %70
-Lab devam mecburiyeti %80 
-Arasınav:%40, Final:%60
+Ders devam mecburiyeti: %70   
+Lab devam mecburiyeti %80   
+Arasınav:%40, Final:%60  
 
 ---
 
