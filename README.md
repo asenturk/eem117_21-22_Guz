@@ -2,6 +2,15 @@
 ISUBU Teknoloji Fak. Elektrik-Elektronik Müh. EEM-117 Algoritma ve Programlama Dersi
 
 
+
+**C Programlamada kullanılacak olan Derleyeci/Editör** (05.10.2021)   
+https://sourceforge.net/projects/orwelldevcpp/
+
+---
+
+**Flowgorithm programı** (05.10.2021)   
+http://www.flowgorithm.org/download/index.html
+
 --- 
 
 **Dersle ilgili kaynaklar** (Son güncelleme: 03.10.2021)
