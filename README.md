@@ -13,10 +13,13 @@ http://www.flowgorithm.org/download/index.html
 
 --- 
 
-**Dersle ilgili kaynaklar** (Son güncelleme: 03.10.2021)
+**Dersle ilgili kaynaklar** (Son güncelleme: 12.10.2021)
 
 - http://ikucukkoc.baun.edu.tr/lectures/BIL1202/BIL1202DersNotlari.pdf   
-  (Doç Dr. İbrahim Küçükkoç) PDF dokümanı 4-67. sayfalar
+  (Doç. Dr. İbrahim Küçükkoç) PDF dokümanı 4-67. sayfalar
+
+- https://www.youtube.com/playlist?list=PL9A3J9niD78dSHTvHwow4QCkQqPmJNTcs   
+  (Flowgorithm dersleri)
 
 ---
 
