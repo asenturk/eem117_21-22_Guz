@@ -124,6 +124,161 @@ int main() {
 ```
 
 
+```C 
+#include <stdio.h>
+
+int main() {
+	
+	int a;
+	printf("bir sayi giriniz");
+	scanf("%d",&a);
+	
+	//girilen sayi 10 ile 20 arasında mi?
+	if(a>10)
+	if(a<20)
+	printf("girilen sayi 10 ile 20 arasindadir");
+	else
+	printf("1: girilen sayi 10 ile 20 arasinda degil");
+	else
+	printf("2: girilen sayi 10 ile 20 arasinda degil");
+	
+	return 0; 
+}  
+ ``` 
+
+
+
+```C 
+#include <stdio.h>
+
+int main() {
+	
+	int a;
+	printf("bir sayi giriniz");
+	scanf("%d",&a);
+	
+	//girilen sayi 10 ile 20 arasında mi?
+	if(a>10)
+		if(a<20)
+			printf("girilen sayi 10 ile 20 arasindadir");
+ 		
+	return 0;
+} 
+ ``` 
+
+
+
+```C 
+#include <stdio.h>
+
+int main() {
+	
+	int a;
+	printf("bir sayi giriniz");
+	scanf("%d",&a);
+	
+	//girilen sayi 10 ile 20 arasında mi?
+	if(a>10)
+				
+		if(a<20)
+			printf("girilen sayi 10 ile 20 arasindadir");	 
+		else
+			printf("1: girilen sayi 10 ile 20 arasinda degil");
+			
+	return 0;
+} 
+ ``` 
+
+
+
+```C 
+#include <stdio.h>
+
+int main() {
+	
+	int a;
+	printf("bir sayi giriniz");
+	scanf("%d",&a);
+	
+	//girilen sayi 10 ile 20 arasında mi?
+	if(a>10)
+	if(a<20)
+			printf("girilen sayi 10 ile 20 arasindadir");	 
+		else
+			printf("1: girilen sayi 10 ile 20 arasinda degil");
+	else
+		printf("2: girilen sayi 10 ile 20 arasinda degil");
+	
+	return 0;
+} 
+ ``` 
+
+
+
+```C 
+#include <stdio.h>
+
+int main() {
+	
+	int a;
+	printf("bir sayi giriniz");
+	scanf("%d",&a);
+	
+	//girilen sayi 10 ile 20 arasında mi?
+	if(a>10)
+	if(a<20)
+	printf("girilen sayi 10 ile 20 arasindadir");	 
+	else
+	printf("1: girilen sayi 10 ile 20 arasinda degil");
+	else
+	printf("2: girilen sayi 10 ile 20 arasinda degil");
+	
+	return 0; 
+}  
+ ``` 
+
+
+
+```C 
+#include <stdio.h>
+
+int main() {
+	
+	int a;
+	printf("bir sayi giriniz");
+	scanf("%d",&a);
+	
+	//girilen sayi 10 ile 20 arasında mi?
+	if(a>10 && a<20)
+		printf("girilen sayi 10 ile 20 arasindadir");	 	
+	else
+		printf("girilen sayi 10 ile 20 arasinda degil");	
+	
+	return 0; 
+}  
+ ``` 
+
+
+
+```C 
+#include <stdio.h>
+
+int main() {
+	
+	int a;
+	printf("bir sayi giriniz");
+	scanf("%d",&a);
+	
+	//girilen sayi 10 ile 20 arasında mi?
+	if(a<10 || a>20)
+		printf("girilen sayi 10dan kucuk 20den buyuktur.");	 	
+	else
+		printf("girilen sayi 10 ile 20 arasinda (sayilar dahil)");
+	
+	return 0; 
+}  
+ ``` 
+
 ```C
 #include <stdio.h>
 
