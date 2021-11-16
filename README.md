@@ -2,6 +2,10 @@
 ISUBU Teknoloji Fak. Elektrik-Elektronik Müh. EEM-117 Algoritma ve Programlama Dersi
 
 
+**Dersin arasınavı ile ilgili duyuru** (16/11/2021)   
+Arasınavda for döngüleri dahil olmak üzere işlenilen tüm konulardan soru gelebilir.
+
+---
 
 **C Programlamada kullanılacak olan Derleyeci/Editör** (05.10.2021)   
 https://sourceforge.net/projects/orwelldevcpp/
