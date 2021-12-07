@@ -288,9 +288,6 @@ int main() {
 }
 ```
 
-```C
-#include <stdio.h>
-
 
 ```C
 #include <stdio.h>
