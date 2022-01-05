@@ -61,6 +61,29 @@ int main() {
 }
 ```
 
+```C
+#include <stdio.h>
+
+int harf_say(char metin[], char harf){
+	int i, sayac=0;
+	for(i=0;metin[i]!='\0';i++)
+		if(metin[i]==harf)
+			sayac++;
+	return sayac;
+}
+int main() {
+	char a[100], chr;
+	printf("metin giriniz: ");
+	gets(a);
+	printf("sayilacak karateri giriniz: ");
+	chr=getchar(); //scanf("%c",&b);
+	printf("%s metninde %c karakterinden %d tane var.",
+									a,chr,harf_say(a, chr));
+	
+	return 0;
+}
+```
+
 
 ```C
 #include <stdio.h>
